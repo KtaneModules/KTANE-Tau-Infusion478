@@ -1,0 +1,10 @@
+{
+  "name": "tauModule-Editor",
+  "references": [
+    "tauModule"
+  ],
+  "includePlatforms": [
+    "Editor"
+  ],
+  "excludePlatforms": []
+}
