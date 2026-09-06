@@ -183,8 +183,8 @@ public class Tau : MonoBehaviour {
       Displays[2].text = "τ";
       Displays[3].text = "";
       Displays[4].text = "";
-      GetComponent<KMBombModule>().HandlePass();
       Debug.LogFormat("[Tau #{0}] All buttons have been pressed correctly. Module solved!", ModuleId);
+      GetComponent<KMBombModule>().HandlePass();
    }
 
 #pragma warning disable 414

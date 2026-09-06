@@ -17,8 +17,9 @@ MonoBehaviour:
   description: "It\u2019s equal to pi, multiplied by two. But it has half of the legs
     in its symbol? The tau is a lie!\n\nUse 5 letters to get digits in \u03C4 to find
     the order to press the buttons in.\n\nBased on Pie by KingBranBran.\n\nThis is
-    my first module! I was going\n\nManual can be found at ktane.timwi.de or in the
-    bundled manuals folder.\nSource code is at https://github.com/Infusion478/KTANE-Tau\n\nComes
+    my first module! I was going to make it a manual challenge like Pie, but I didn't
+    want to make my first module a manual challenge.\n\nManual can be found at ktane.timwi.de
+    or in the bundled manuals folder.\nSource code is at https://github.com/Infusion478/KTANE-Tau\n\nComes
     with Twitch Plays support."
   version: 1.0
   outputFolder: build
